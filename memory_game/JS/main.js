@@ -64,5 +64,3 @@ location.reload();
 let button = document.querySelector('.reset');
 
 button.addEventListener('click', resetGame);
-
-/*Now*/
